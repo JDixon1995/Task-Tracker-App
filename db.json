@@ -10,13 +10,19 @@
       "id": 3,
       "text": "Help son finish homework",
       "day": "Nov 7th at 6:30 PM",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Get car from shop",
-      "day": "Nov 22nd at 3:00PM",
+      "day": "Nov. 22nd at 3:00 PM",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "Wash the dog",
+      "day": "Nov. 23rd at 12:00 PM",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
