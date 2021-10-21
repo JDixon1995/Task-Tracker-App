@@ -11,6 +11,12 @@
       "text": "Help son finish homework",
       "day": "Nov 7th at 6:30 PM",
       "reminder": true
+    },
+    {
+      "text": "Get car from shop",
+      "day": "Nov 22nd at 3:00PM",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
