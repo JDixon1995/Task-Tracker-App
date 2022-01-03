@@ -23,7 +23,7 @@ const App = () => {
 
   //Fetch Tasks
   const fetchTasks = async () => {
-    const res = await fetch('/tasks')
+    const res = await fetch('../db.json/tasks')
     const data = await res.json()
 
     return data
