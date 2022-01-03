@@ -23,6 +23,12 @@
       "day": "Nov. 23rd at 12:00 PM",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Pay parking fee",
+      "day": "Dec. 5th at 11:00 AM",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
